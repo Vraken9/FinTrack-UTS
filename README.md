@@ -1,8 +1,8 @@
-# UTS_Mobile_FinTrack 📊
+# UTS_Mobile_FinTrack 
 
 Repositori ini dibuat untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah Pemrograman Mobile. Aplikasi yang dikembangkan adalah **FinTrack (Financial Tracker)**, sebuah aplikasi pelacak keuangan pribadi berbasis Android Native.
 
-## 👥 Identitas Kelompok (Universitas Ma'arif Nahdlatul Ulama Kebumen)
+## Identitas Kelompok (Universitas Ma'arif Nahdlatul Ulama Kebumen)
 
 | Nama Lengkap | NIM |
 | :--- | :--- |
