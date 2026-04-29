@@ -1,4 +1,4 @@
-# FinTrack - Aplikasi Pencatat Keuangan Mobile (Projek UAS)
+# FinTrack - Aplikasi Pencatat Keuangan Mobile (Projek UTS)
 
 ## Identitas Kelompok / Mahasiswa
 - Nama: [Kosongkan untuk diisi user]
